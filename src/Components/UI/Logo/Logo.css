@@ -1,0 +1,17 @@
+.logo{
+    display: flex;
+    justify-content: space-around;
+    border-radius: 50%;
+    width: 150px;
+    height: 140px;
+    margin-left: 40px;
+    
+    border-color: rgb(185, 2, 2);
+    border-style: ridge;
+}
+
+.image{
+    background-color: rgb(18, 29, 78);
+    padding-top: 30px;
+    height: 11rem;
+}

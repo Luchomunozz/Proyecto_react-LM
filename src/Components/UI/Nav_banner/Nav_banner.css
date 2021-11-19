@@ -1,0 +1,35 @@
+.banner_list ul{
+    display: inline-flex;
+    align-items: center;
+    position: absolute;
+    left: 70rem;
+    top: 60px;
+    list-style: none;
+    width: 450px;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.banner_list li{
+    display: flex;
+    color: #fff;
+    border-radius: 10px;
+    border-color: #fff;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 70px;
+    height: 30px;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.banner_list li:hover{
+    color: #fff;
+}
+
+.banner_list a{
+    color: #fff;
+    text-decoration: none;
+}
